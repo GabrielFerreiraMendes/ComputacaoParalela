@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/08/12 09:33:45.000.166,=C:\Users\Gabriel\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/08/12 09:34:36.000.357,=C:\Users\Gabriel\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/08/12 10:10:14.000.168,C:\Users\Gabriel\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Gabriel\OneDrive\Documentos\Embarcadero\Studio\Projects\Parallel Programming\uMainForm.pas</Transaction>
+    <Transaction>2023/08/12 10:10:14.000.168,C:\Users\Gabriel\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Gabriel\OneDrive\Documentos\Embarcadero\Studio\Projects\Parallel Programming\uMainForm.dfm</Transaction>
+    <Transaction>2023/08/12 10:10:19.000.674,C:\Users\Gabriel\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Gabriel\OneDrive\Documentos\Embarcadero\Studio\Projects\Parallel Programming\Parallel_Programming.dproj</Transaction>
+    <Transaction>2023/08/13 21:16:11.000.476,=C:\Users\Gabriel\OneDrive\Documentos\Embarcadero\Studio\Projects\Parallel Programming\Unit1.pas</Transaction>
+    <Transaction>2023/08/13 21:17:39.000.502,C:\Users\Gabriel\OneDrive\Documentos\Embarcadero\Studio\Projects\Parallel Programming\uInformacaoEmprego.pas=C:\Users\Gabriel\OneDrive\Documentos\Embarcadero\Studio\Projects\Parallel Programming\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
